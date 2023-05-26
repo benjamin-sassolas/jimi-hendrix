@@ -1,0 +1,8 @@
+.banner{
+	background-image: url("../../images/bannerimage.jpg");
+	color: whitesmoke;
+	padding: 150px 0px;
+  text-align:center;
+  background-size: cover;
+
+}
